@@ -135,6 +135,39 @@ ul {
     font-size: 18px;
 }
 
+.call-to-action {
+    background-color: aliceblue;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-inner {
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 16px 100px;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+}
+
+.button-title {
+    margin-bottom: 0;
+}
+
+.button-description {
+    margin-top: 0;
+}
+
+.bottom-button {
+    border: 2px solid white;
+    background-color: transparent;
+    border-radius: 15px;
+    color: white;
+    padding: 8px 16px;
+}
+
 footer {
     background-color: #1F2937;
     color: rgba(255, 255, 255, 0.762);
