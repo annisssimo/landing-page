@@ -118,8 +118,21 @@ ul {
     gap: 94px;
 }
 
-.advantages {
-    background-color: #e5e7eb;
+.quote {
+    background-color: #4589f795;
+    padding: 70px;
+}
+
+.quote-text {
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 36px;
+}
+
+.quote-author {
+    font-weight: 600;
+    text-align: end;
+    font-size: 18px;
 }
 
 footer {
