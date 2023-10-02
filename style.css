@@ -88,9 +88,43 @@ ul {
     border-radius: 5px;
 }
 
+.advantages {
+    background-color: aliceblue;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.advantages-title {
+    text-align: center;
+    color: #1F2937;
+    padding: 30px;
+    font-size: 32px;
+}
+
+.advantages-text {
+    color: #1F2937;
+    text-align: center;
+    margin: 20px;
+    padding: 0px;
+}
+
+.inner-container {
+    display: flex;
+    justify-content: center;
+    gap: 94px;
+}
+
+.advantages {
+    background-color: #e5e7eb;
+}
+
 footer {
     background-color: #1F2937;
     color: rgba(255, 255, 255, 0.762);
     text-align: center;
-    padding: 30px 0;;
+    padding: 30px 0;
 } 
